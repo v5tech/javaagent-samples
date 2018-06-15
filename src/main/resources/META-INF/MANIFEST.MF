@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: javaagent.sample.App
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
